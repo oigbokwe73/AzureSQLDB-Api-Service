@@ -1,5 +1,3 @@
-# Effortlessly-Integrate-with-Azure-SQL-using-Xenhey-s-API-Connector-Configuration-over-Code
-
 
 **Title: Effortlessly Integrate with Azure SQL using Xenhey’s API Connector: Configuration over Code**
 
