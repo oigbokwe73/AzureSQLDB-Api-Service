@@ -1,5 +1,5 @@
 
-**Title: Effortlessly Integrate with Azure SQL using Xenhey’s API Connector: Configuration over Code**
+## Effortlessly Integrate with Azure SQL using Xenhey’s API Connector: Configuration over Code
 
 In today’s dynamic, data-driven environment, accessing, managing, and utilizing data efficiently can make or break a business. For teams relying on Azure SQL, there’s a demand for seamless integration capabilities, enabling users to access stored procedures and views in a flexible and intuitive manner. Enter Xenhey’s API Connector — a powerful tool that allows you to connect to your existing Azure SQL database and access stored procedures and views, all with minimal coding.
 
