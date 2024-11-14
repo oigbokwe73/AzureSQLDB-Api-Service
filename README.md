@@ -49,6 +49,3 @@ XenHey’s API connector is a game-changer for enterprises using Azure SQL. By e
 
 **Ready to integrate with ease?** Explore the power of XenHey’s API connector to streamline your Azure SQL interactions and unlock new efficiencies.
 
---- 
-
-This blog post provides a comprehensive overview of how XenHey can help teams maximize Azure SQL's power through simple configurations, ideal for readers interested in efficient, low-code data integration solutions.
