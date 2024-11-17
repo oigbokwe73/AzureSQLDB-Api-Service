@@ -24,10 +24,9 @@ In today’s fast-paced development environment, enterprises need solutions that
 # Dynamic configuration store wit h Endpoint support
 
 
-## Event-Driven Microservice Architecture Diagram
+## Architecture Diagram
 
-![image](https://github.com/user-attachments/assets/b8862c89-46b6-4ccb-81e8-dc23033763d0)
-
+![image](https://github.com/user-attachments/assets/f955bf57-c8f3-432e-ae8f-1caca7600f85)
 
 
 ## Session Recorded 
