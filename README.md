@@ -26,7 +26,8 @@ In today’s fast-paced development environment, enterprises need solutions that
 
 ## Architecture Diagram
 
-![image](https://github.com/user-attachments/assets/f955bf57-c8f3-432e-ae8f-1caca7600f85)
+![image](https://github.com/user-attachments/assets/2c5a335d-f723-4571-9952-f6be90f26d2d)
+
 
 
 ## Session Recorded 
