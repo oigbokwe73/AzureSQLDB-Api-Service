@@ -21,12 +21,13 @@ In today’s fast-paced development environment, enterprises need solutions that
   
 
 
-#  Data Ingestion into Azure Service Bus To SQL
+# Dynamic configuration store wit h Endpoint support
 
 
 ## Event-Driven Microservice Architecture Diagram
 
-![image](https://user-images.githubusercontent.com/15838780/226928604-4340b682-0e13-44bc-b239-6b91a29f678a.png)
+![image](https://github.com/user-attachments/assets/b8862c89-46b6-4ccb-81e8-dc23033763d0)
+
 
 
 ## Session Recorded 
