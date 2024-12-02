@@ -29,9 +29,6 @@ graph TD
     B -->|API Response| A
 ```
 
-Set Up Steps 
-
-Creating a serverless API using Azure that leverages Service Bus to communicate with an SQL Database involves several steps. Here's a high-level overview of how you can set this up:
 
 1. **Set Up Azure SQL Database**:
    - Create an Azure SQL Database instance.
