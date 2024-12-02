@@ -72,10 +72,9 @@ Creating a serverless API using Azure that leverages Service Bus to communicate 
 |FileName|Description|
 |:----|:----|
 |43EFE991E8614CFB9EDECF1B0FDED37D.json| **Search SQL DB. Return resultset** |
-|6B427917E36A4DA281D57F9A64AD9D55.json| Get reports from DB  |
 
 
-> Create the following blob containers and share in azure storage
+> Create the following blob container
 
 |ContainerName|Description|
 |:----|:----|
