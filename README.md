@@ -18,30 +18,6 @@ A financial services company needs to generate real-time financial reports for i
 
 ---
 
-### **Key Features Utilized:**
-1. **Stored Procedure API Exposure**:
-   - Real-time queries for account balances, portfolio returns, and risk analytics.
-2. **Dynamic Parameter Management**:
-   - Users can request data filtered by account ID, date ranges, or portfolio type.
-3. **Secure Authentication**:
-   - Only authenticated users (e.g., clients, internal analysts) can access APIs.
-
----
-
-### **Workflow Steps:**
-
-1. **Database Interaction**:
-   - Stored procedures calculate financial metrics like balances, profit/loss, and risk scores.
-2. **XenHey Configuration**:
-   - APIs are configured in XenHey to expose stored procedures and views from Azure SQL.
-   - Parameters are dynamically managed, allowing clients to retrieve custom reports.
-3. **Client Dashboard**:
-   - Real-time data is fetched by client-facing dashboards or analytics tools (e.g., Power BI or Tableau).
-4. **Authentication and Governance**:
-   - XenHey ensures data access adheres to compliance policies and restricts unauthorized use.
-
----
-
 ### **Mermaid Diagram:**
 
 ```mermaid
@@ -52,22 +28,6 @@ graph TD
     D -->|Return Data| B
     B -->|API Response| A
 ```
-
----
-
-### **Example in Action:**
-
-A client logs into their dashboard and requests:
-- **Portfolio Performance**: XenHey calls a stored procedure in Azure SQL to calculate performance over the last month.
-- **Risk Analysis**: Another API call fetches risk metrics for the client’s investments.
-- **Real-Time Balance**: The dashboard retrieves the current account balance via a stored procedure exposed by XenHey.
-
-This solution ensures:
-- **Real-time insights for clients.**
-- **Secure and efficient database interaction.**
-- **Reduced development time with a configuration-driven approach.**
-
----
 
 **Conclusion:**
 By leveraging XenHey's API connector, financial institutions can streamline their reporting processes, ensuring compliance, efficiency, and real-time access to critical data. This approach not only improves client satisfaction but also reduces operational complexity.
