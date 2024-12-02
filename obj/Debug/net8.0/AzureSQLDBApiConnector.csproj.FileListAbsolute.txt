@@ -1,0 +1,9 @@
+C:\Users\oigbo\source\repos\oigbokwe73\Effortlessly-Integrate-with-Azure-SQL-using-Xenhey-s-API-Connector-Configuration-over-Code\AzureSQLDatabaseApiConnector\obj\Debug\net8.0\AzureSQLDBApiConnector.csproj.AssemblyReference.cache
+C:\Users\oigbo\source\repos\oigbokwe73\Effortlessly-Integrate-with-Azure-SQL-using-Xenhey-s-API-Connector-Configuration-over-Code\AzureSQLDatabaseApiConnector\obj\Debug\net8.0\AzureSQLDBApiConnector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oigbo\source\repos\oigbokwe73\Effortlessly-Integrate-with-Azure-SQL-using-Xenhey-s-API-Connector-Configuration-over-Code\AzureSQLDatabaseApiConnector\obj\Debug\net8.0\AzureSQLDBApiConnector.AssemblyInfoInputs.cache
+C:\Users\oigbo\source\repos\oigbokwe73\Effortlessly-Integrate-with-Azure-SQL-using-Xenhey-s-API-Connector-Configuration-over-Code\AzureSQLDatabaseApiConnector\obj\Debug\net8.0\AzureSQLDBApiConnector.AssemblyInfo.cs
+C:\Users\oigbo\source\repos\oigbokwe73\Effortlessly-Integrate-with-Azure-SQL-using-Xenhey-s-API-Connector-Configuration-over-Code\AzureSQLDatabaseApiConnector\obj\Debug\net8.0\AzureSQLDBApiConnector.csproj.CoreCompileInputs.cache
+C:\Users\oigbo\source\repos\oigbokwe73\Effortlessly-Integrate-with-Azure-SQL-using-Xenhey-s-API-Connector-Configuration-over-Code\AzureSQLDatabaseApiConnector\obj\Debug\net8.0\AzureSQLDBApiConnector.sourcelink.json
+C:\Users\oigbo\source\repos\oigbokwe73\Effortlessly-Integrate-with-Azure-SQL-using-Xenhey-s-API-Connector-Configuration-over-Code\AzureSQLDatabaseApiConnector\obj\Debug\net8.0\AzureSQLDBApiConnector.dll
+C:\Users\oigbo\source\repos\oigbokwe73\Effortlessly-Integrate-with-Azure-SQL-using-Xenhey-s-API-Connector-Configuration-over-Code\AzureSQLDatabaseApiConnector\obj\Debug\net8.0\refint\AzureSQLDBApiConnector.dll
+C:\Users\oigbo\source\repos\oigbokwe73\Effortlessly-Integrate-with-Azure-SQL-using-Xenhey-s-API-Connector-Configuration-over-Code\AzureSQLDatabaseApiConnector\obj\Debug\net8.0\AzureSQLDBApiConnector.pdb
