@@ -17,6 +17,12 @@
     <PackageReference Include="Xenhey.BPM.Core.Net8" Version="1.0.51" />
   </ItemGroup>
   <ItemGroup>
+    <None Update="config\43EFE991E8614CFB9EDECF1B0FDED37D.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Update="config\6B427917E36A4DA281D57F9A64AD9D55.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
     <None Update="host.json">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
@@ -26,6 +32,6 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <Using Include="System.Threading.ExecutionContext" Alias="ExecutionContext"/>
+    <Using Include="System.Threading.ExecutionContext" Alias="ExecutionContext" />
   </ItemGroup>
 </Project>
