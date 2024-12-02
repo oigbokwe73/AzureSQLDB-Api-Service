@@ -49,7 +49,6 @@ Creating a serverless API using Azure that leverages Service Bus to communicate 
 4. **Deployment**:
    - Deploy your functions to the Azure environment. You can use CI/CD pipelines using tools like Azure DevOps or GitHub Actions for automated deployments.
 
-By following these steps, you'll have a serverless API in Azure that uses Service Bus as a mediator to process data and store it in an SQL Database. This architecture ensures decoupling between data ingestion and processing, adding a layer of resilience and scalability to your solution.
 
 
 ## Appplication Setting 
