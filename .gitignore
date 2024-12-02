@@ -4,3 +4,5 @@
 
 /.vs
 /AzureSQLDatabaseApiConnector/Properties
+/bin/Debug/net8.0/.azurefunctions
+/bin/Debug/net8.0
